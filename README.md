@@ -9,11 +9,11 @@ Dive into the immersive world of 3D Pong, where classic arcade nostalgia meets m
 * Ball Speed incrementing per collision
 
 ## Screenshots
-![Screenshot 1](/GitHub/Pong-3D-Game--Unity-Engine-/Pong3D_MainMenu)
+![Screenshot 1](./Pong3D_MainMenu.png)
 
-![Screenshot 2](/GitHub/Pong-3D-Game--Unity-Engine-/Pong3D_GameMenu.png)
+![Screenshot 2](./Pong3D_GameMenu.png)
 
-![Screenshot 3](/GitHub/Pong-3D-Game--Unity-Engine-/Pong3D_Main)
+![Screenshot 3](./Pong3D_Main.png)
 
 
 
