@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 97b6f059e3f484b5eb876bec404b6623
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sparksVFX: {fileID: 89133771605983323, guid: e744f1a86815a4b929d4356976c9d433, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
